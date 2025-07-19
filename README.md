@@ -1,2 +1,2 @@
 HEART-DISEASE-DETECTION-using-MACHINE-LEARNING 
-Logistic Regression model
+Logistic Regression model.
